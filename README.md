@@ -5,4 +5,4 @@ Project is developed using<b> Random forest regressor</b> algorithm and deployed
 2.<b>model.ipnyb</b> contains our model etc.
 
 Here is the link of project
-https://predicting-car-price.herokuapp.com/predict
+https://predicting-car-price.herokuapp.com
